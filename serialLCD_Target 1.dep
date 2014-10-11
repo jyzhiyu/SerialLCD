@@ -1,0 +1,101 @@
+Dependencies for Project 'serialLCD', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5412BC20)(-c --cpu Cortex-M3 -D__EVAL -g -O2 --apcs=interwork -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc -I..\sw -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\templates-I C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE-I C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE\Device\STM32F103VE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc-D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include\stm32f10x.h)(0x528979E6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\templates\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE\RTE_Components.h)(0x54113E02)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\src\stm32f10x_fsmc.c)(0x52F9EB20)(-c --cpu Cortex-M3 -D__EVAL -g -O2 --apcs=interwork -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc -I..\sw -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\templates-I C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE-I C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE\Device\STM32F103VE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc-D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\obj\stm32f10x_fsmc.o --omf_browse .\obj\stm32f10x_fsmc.crf --depend .\obj\stm32f10x_fsmc.d)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include\stm32f10x.h)(0x528979E6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\templates\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE\RTE_Components.h)(0x54113E02)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\src\stm32f10x_gpio.c)(0x52F9EB20)(-c --cpu Cortex-M3 -D__EVAL -g -O2 --apcs=interwork -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc -I..\sw -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\templates-I C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE-I C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE\Device\STM32F103VE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc-D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\obj\stm32f10x_gpio.o --omf_browse .\obj\stm32f10x_gpio.crf --depend .\obj\stm32f10x_gpio.d)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include\stm32f10x.h)(0x528979E6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\templates\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE\RTE_Components.h)(0x54113E02)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\src\stm32f10x_rcc.c)(0x52F9EB20)(-c --cpu Cortex-M3 -D__EVAL -g -O2 --apcs=interwork -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc -I..\sw -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\templates-I C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE-I C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE\Device\STM32F103VE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc-D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\obj\stm32f10x_rcc.o --omf_browse .\obj\stm32f10x_rcc.crf --depend .\obj\stm32f10x_rcc.d)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include\stm32f10x.h)(0x528979E6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\templates\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE\RTE_Components.h)(0x54113E02)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\src\stm32f10x_spi.c)(0x52F9EB20)(-c --cpu Cortex-M3 -D__EVAL -g -O2 --apcs=interwork -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc -I..\sw -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\templates-I C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE-I C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE\Device\STM32F103VE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc-D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\obj\stm32f10x_spi.o --omf_browse .\obj\stm32f10x_spi.crf --depend .\obj\stm32f10x_spi.d)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include\stm32f10x.h)(0x528979E6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\templates\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE\RTE_Components.h)(0x54113E02)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\src\stm32f10x_usart.c)(0x52F9EB20)(-c --cpu Cortex-M3 -D__EVAL -g -O2 --apcs=interwork -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc -I..\sw -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\templates-I C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE-I C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE\Device\STM32F103VE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc-D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\obj\stm32f10x_usart.o --omf_browse .\obj\stm32f10x_usart.crf --depend .\obj\stm32f10x_usart.d)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include\stm32f10x.h)(0x528979E6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\templates\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE\RTE_Components.h)(0x54113E02)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9EB20)
+F (RTE\Device\STM32F103VE\RTE_Device.h)(0x52431878)()
+F (RTE\Device\STM32F103VE\startup_stm32f10x_hd.s)(0x4F1E2E3C)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE-I C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE\Device\STM32F103VE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc--list .\lsit\startup_stm32f10x_hd.lst --xref -o .\obj\startup_stm32f10x_hd.o --depend .\obj\startup_stm32f10x_hd.d)
+F (RTE\Device\STM32F103VE\system_stm32f10x.c)(0x4F1E2E3C)(-c --cpu Cortex-M3 -D__EVAL -g -O2 --apcs=interwork -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc -I..\sw -IC:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\templates-I C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE-I C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE\Device\STM32F103VE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc-D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\obj\system_stm32f10x.o --omf_browse .\obj\system_stm32f10x.crf --depend .\obj\system_stm32f10x.d)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include\stm32f10x.h)(0x528979E6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\templates\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Users\jyzhiyu\Dropbox\work\SerialLCD\sw\RTE\RTE_Components.h)(0x54113E02)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
