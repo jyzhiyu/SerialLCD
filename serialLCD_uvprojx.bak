@@ -364,7 +364,7 @@
               <MiscControls></MiscControls>
               <Define>USE_STDPERIPH_DRIVER, STM32F10X_HD</Define>
               <Undefine></Undefine>
-              <IncludePath>C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include;C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc;..\sw;C:\Keil_v5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\templates</IncludePath>
+              <IncludePath>..\SerialLCD;.\lib;.\Device\Include;.\Device\StdPeriph_Driver\inc;.\Device\StdPeriph_Driver\templates</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -413,19 +413,39 @@
               <FilePath>.\main.c</FilePath>
             </File>
             <File>
-              <FileName>LCD_drvier.c</FileName>
+              <FileName>ATProcess.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\LCD_drvier.c</FilePath>
-            </File>
-            <File>
-              <FileName>hw_init.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\hw_init.c</FilePath>
+              <FilePath>.\lib\ATProcess.c</FilePath>
             </File>
             <File>
               <FileName>delay.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\delay.c</FilePath>
+              <FilePath>.\lib\delay.c</FilePath>
+            </File>
+            <File>
+              <FileName>hw_init.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\lib\hw_init.c</FilePath>
+            </File>
+            <File>
+              <FileName>LCD_drvier.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\lib\LCD_drvier.c</FilePath>
+            </File>
+            <File>
+              <FileName>serialport.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\lib\serialport.c</FilePath>
+            </File>
+            <File>
+              <FileName>TouchDriver.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\lib\TouchDriver.c</FilePath>
+            </File>
+            <File>
+              <FileName>misc.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Device\StdPeriph_Driver\src\misc.c</FilePath>
             </File>
           </Files>
         </Group>

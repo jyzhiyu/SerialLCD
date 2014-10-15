@@ -1,0 +1,16 @@
+.\obj\atprocess.o: lib\ATProcess.c
+.\obj\atprocess.o: .\Device\Include\stm32f10x.h
+.\obj\atprocess.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm3.h
+.\obj\atprocess.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\atprocess.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+.\obj\atprocess.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+.\obj\atprocess.o: .\Device\Include\system_stm32f10x.h
+.\obj\atprocess.o: .\Device\StdPeriph_Driver\templates\stm32f10x_conf.h
+.\obj\atprocess.o: C:\Users\jyzhiyu\Desktop\SerialLCD\RTE\RTE_Components.h
+.\obj\atprocess.o: .\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h
+.\obj\atprocess.o: .\Device\Include\stm32f10x.h
+.\obj\atprocess.o: .\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\atprocess.o: .\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\atprocess.o: .\Device\StdPeriph_Driver\inc\stm32f10x_spi.h
+.\obj\atprocess.o: .\Device\StdPeriph_Driver\inc\stm32f10x_usart.h
+.\obj\atprocess.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h

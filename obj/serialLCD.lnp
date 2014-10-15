@@ -1,5 +1,11 @@
 --cpu Cortex-M3
 ".\obj\main.o"
+".\obj\lcd_drvier.o"
+".\obj\hw_init.o"
+".\obj\delay.o"
+".\obj\touchdriver.o"
+".\obj\serialport.o"
+".\obj\atprocess.o"
 ".\obj\stm32f10x_fsmc.o"
 ".\obj\stm32f10x_gpio.o"
 ".\obj\stm32f10x_rcc.o"

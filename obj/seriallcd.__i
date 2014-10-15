@@ -1,0 +1,8 @@
+-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\SerialLCD -I.\lib -I.\Device\Include -I.\Device\StdPeriph_Driver\inc -I.\Device\StdPeriph_Driver\templates
+-I C:\Users\jyzhiyu\Desktop\SerialLCD\RTE
+-I C:\Users\jyzhiyu\Desktop\SerialLCD\RTE\Device\STM32F103VE
+-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include
+-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include
+-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc
+-D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD
+-o .\obj\seriallcd.o --omf_browse .\obj\seriallcd.crf --depend .\obj\seriallcd.d "lib\SerialLCD.c"
