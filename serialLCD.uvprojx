@@ -423,11 +423,6 @@
               <FilePath>.\lib\delay.c</FilePath>
             </File>
             <File>
-              <FileName>hw_init.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\lib\hw_init.c</FilePath>
-            </File>
-            <File>
               <FileName>LCD_drvier.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\lib\LCD_drvier.c</FilePath>
@@ -451,6 +446,11 @@
               <FileName>FSMCDriver.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\lib\FSMCDriver.c</FilePath>
+            </File>
+            <File>
+              <FileName>SerialLCD.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\lib\SerialLCD.c</FilePath>
             </File>
           </Files>
         </Group>

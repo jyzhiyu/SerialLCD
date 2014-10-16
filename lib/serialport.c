@@ -135,3 +135,9 @@ void Serial1End(void)
 	USART_Cmd(USART1, DISABLE);
 }
 
+void Serial1Print(char * dat)
+{
+	char * p = dat;
+	while(*p++)
+		Serial1Write(*p);
+}
